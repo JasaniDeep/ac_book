@@ -44,3 +44,20 @@ class _lockState extends State<lock> {
     );
   }
 }
+
+// delete
+// <?php
+// $db=mysqli_connect("localhost","id19546635_deep","Flutter@1234","id19546635_deepjasani");
+//
+// $id=$_GET['id'];
+//
+// $q="delete from acname where id=$id";
+// if(mysqli_query($db,$q))
+// {
+// echo "Data is deleted";
+// }
+// else
+// {
+// echo "Data is not deleted";
+// }
+// ?>
